@@ -1,6 +1,6 @@
 # On-The-Way
 On The Way Desktop Programm Java
-Application Java Desktop Transportation for Gouverment why you must 
+Application Java Desktop Transportation from indonesia
 
 Mohon Baca ini sebelum bagi kamu yang ingin mendownload aplikasi ini 
 Aplikasi Ontheway adalah sbeuah aplikasi yang dibuat bertujuan untuk pembelajaran dengan menggunakan bahasa pemrograman java 
