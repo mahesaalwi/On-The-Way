@@ -6,7 +6,7 @@ Mohon Baca ini sebelum bagi kamu yang ingin mendownload aplikasi ini
 Aplikasi Ontheway adalah sbeuah aplikasi yang dibuat bertujuan untuk pembelajaran dengan menggunakan bahasa pemrograman java 
 disini pembuat sudah membuat code ini dengan opensource bagi siapa saja yang ingin menggunakan source ini dan mengembangkan aplikasi ini agar jadi lebih baik dan semoga dapat bermanfaat. 
 
-#Fiture Programs
+# Fiture Programs
 1.  Login User Admin
 2.  Login User Employee
 3.  Dashboard Home
@@ -21,7 +21,7 @@ disini pembuat sudah membuat code ini dengan opensource bagi siapa saja yang ing
 12. Form Employee
 
 
-#How to Installation Program this My Project 
+# How to Installation Program this My Project 
 1.  Install JDK version Java
 2.  Install/Downloads Mysql for Databases
 3.  Install netbeans version latest or new
@@ -32,4 +32,4 @@ disini pembuat sudah membuat code ini dengan opensource bagi siapa saja yang ing
 8.  Happy Coding !
 
 
-#Developer By: Mahesa Nabila Alwi.S
+### Developer By: Mahesa Nabila Alwi.S
